@@ -1,8 +1,9 @@
 # Praveen-Reddy
 new timepass Portfolio
+
 <!-- Animated Typing Header -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Praveen+Kumar+Reddy;Aspiring+Software+Engineer;Java+Developer;Data+Structures+Learner;Building+My+Future+With+Code+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Praveen+Kumar+Reddy;Aspiring+Software+Engineer;Java+Developer;DSA+Learner;Building+My+Future+With+Code+🚀"/>
 </p>
 
 ---
@@ -18,7 +19,7 @@ new timepass Portfolio
 - 🎓 B.Tech in Electronics and Communication Engineering  
 - 💻 Aspiring Software Engineer  
 - 🔥 Daily coding practice in Java  
-- 🌱 Currently learning Data Structures and Algorithms  
+- 🌱 Currently solving problems on LeetCode  
 - 📊 Interested in Software Development and Data Analysis  
 - 🎯 Goal: Become a professional Software Engineer  
 
@@ -37,6 +38,15 @@ new timepass Portfolio
 <a href="https://linkedin.com/in/praveenreddy">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
+
+<a href="https://leetcode.com/u/Praveen_Kumar78/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/praveenkumarre28">
+<img src="https://skillicons.dev/icons?i=hackerrank" height="40"/>
+</a>
+
 </p>
 
 ---
@@ -79,18 +89,10 @@ new timepass Portfolio
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
 ### 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Praveen_Kumar78/?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Praveen_Kumar78?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -98,15 +100,17 @@ new timepass Portfolio
 ### 🏅 HackerRank Profile
 
 <p align="center">
-<a href="https://www.hackerrank.com/praveenkumarre28">
-<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=for-the-badge"/>
+<a href="https://www.hackerrank.com/profile/praveenkumarre28">
+<img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-brightgreen?logo=hackerrank&style=for-the-badge"/>
 </a>
 </p>
 
+---
+
+### 📈 Contribution Graph
+
 <p align="center">
-<img src="https://img.shields.io/badge/Java-5★-brightgreen"/>
-<img src="https://img.shields.io/badge/Python-5★-brightgreen"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-5★-brightgreen"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen00912&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -122,15 +126,7 @@ new timepass Portfolio
 ### 👀 Visitor Counter
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Praveen00912&icon=2&color=6"/>
-</p>
-
----
-
-### 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Praveen00912&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://visitcount.itsvg.in/api?id=Praveen00912&icon=5&color=6"/>
 </p>
 
 ---
@@ -144,4 +140,3 @@ Consistency + Practice = Software Engineer 🚀
 ---
 
 ### ⭐ From Praveen Kumar Reddy
-
