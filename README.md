@@ -90,7 +90,7 @@ new timepass Portfolio
 ### 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/Praveen_Kumar78/?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -98,7 +98,7 @@ new timepass Portfolio
 ### 🏅 HackerRank Profile
 
 <p align="center">
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<a href="https://www.hackerrank.com/praveenkumarre28">
 <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&style=for-the-badge"/>
 </a>
 </p>
